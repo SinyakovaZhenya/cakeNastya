@@ -251,11 +251,11 @@ html, body {
 }
 
 .item {
-	width: 250px;
+	width: 180px;
 	margin: 5px 30px;
 	padding: 15px 20px;
 	white-space: nowrap;
-	font-size: 30px;
+	font-size: 24px;
 	text-align: center;
 	cursor: pointer;
 	border: 0.5px solid #2b5865;
@@ -647,6 +647,11 @@ h3 {
 	}
 	.btn-first a {
 		width: 150px;
+	}
+	.item {
+		width: 90px;
+		font-size: 12px;
+		padding: 10px;
 	}
 	.column {
 		width: 100%;
