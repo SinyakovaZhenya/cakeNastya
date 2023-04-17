@@ -332,7 +332,6 @@ h4 {
 
 /* Payment */
 .content-payment {
-	margin-bottom: 40px;
 	padding: 0 15px;
 	text-align: center;	
 }
@@ -381,6 +380,7 @@ h3 {
 .btn-payment {
 	width: 30%;
 	margin-top: 30px;
+	margin-bottom: 40px;
 	padding: 10px;
 	font-size: 24px;
 	border-bottom: 4px solid #e57601;
@@ -390,7 +390,6 @@ h3 {
 
 /*contacts*/
 .content-contact {
-	margin-bottom: 40px;
 	padding: 0 15px;
 }
 
@@ -436,6 +435,7 @@ h3 {
 
 /* Footer */
 .footer__wrapper {
+	margin-bottom: 40px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -450,11 +450,6 @@ h3 {
 
 .social__item {
 	width: 38px;
-}
-
-.copiright {
-	font-size: 16px;
-	color: #8fbdc2;
 }
 
 @media (max-width: 1199px) {
