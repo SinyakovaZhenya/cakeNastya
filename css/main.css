@@ -188,7 +188,6 @@ html, body {
 .content__general {
 	padding: 0 15px;
 	margin-left: 80px;
-	margin-bottom: 20px;
 	font-family: 'Gabriela', sans-serif;
 	text-align: left;
 	font-size: 60px;
@@ -333,6 +332,7 @@ h4 {
 
 /* Payment */
 .content-payment {
+	margin-bottom: 40px;
 	padding: 0 15px;
 	text-align: center;	
 }
@@ -390,6 +390,7 @@ h3 {
 
 /*contacts*/
 .content-contact {
+	margin-bottom: 40px;
 	padding: 0 15px;
 }
 
