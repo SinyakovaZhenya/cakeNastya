@@ -243,17 +243,16 @@ html, body {
 .swiper-wrapper {
 	display: flex;
 	flex-wrap: wrap;
-	row-gap: 20px;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: center;
 }
 
 .item {
 	width: 180px;
-	margin: 5px 30px;
-	padding: 15px 20px;
+	margin: 10px;
+	padding: 10px 20px;
 	white-space: nowrap;
-	font-size: 24px;
+	font-size: 18px;
 	text-align: center;
 	cursor: pointer;
 	border: 0.5px solid #2b5865;
@@ -351,7 +350,12 @@ h2 {
 
 .text {
 	margin: 24px;
+	padding: 40px;
 	font-size: 24px;
+	border: 0.5px solid #868383;
+	border-radius: 15px;
+	box-shadow: 0px 0px 3px 3px #2b5865;
+	background-color: #8fbdc2;
 }
 
 .text li {
@@ -667,9 +671,8 @@ h3 {
 		width: 150px;
 	}
 	.item {
-		width: 85px;
+		width: 120px;
 		font-size: 12px;
-		padding: 10px;
 	}
 	.column {
 		width: 100%;
