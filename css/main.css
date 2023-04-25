@@ -163,8 +163,8 @@ html, body {
 	width: 100%;
 	height: 100%;
 	text-align: center;
-	font-size: 40px;
 	background-color: #062528f6;
+	font-size: 40px;
 }
 
 .mobile-nav.active {
@@ -182,6 +182,7 @@ html, body {
 
 .mobile-nav-list li + li {
 	margin-top: 60px;
+	
 }
 
 /* index.html */
@@ -234,6 +235,10 @@ html, body {
 }
 
 /* Projects */
+.title2 {
+	color: #e57601;
+}
+
 .content-project {
 	width: 100%;
 	min-height: 100vh;
@@ -681,6 +686,9 @@ h3 {
 	.blockfilling {
 		height: 270px;
 		padding: 20px;
+	}
+	.title2 {
+		font-size: 24px;
 	}
 	h4, .price__weight, .btn {
 		font-size: 20px;
