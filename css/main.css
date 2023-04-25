@@ -163,6 +163,7 @@ html, body {
 	width: 100%;
 	height: 100%;
 	text-align: center;
+	font-size: 40px;
 	background-color: #062528f6;
 }
 
@@ -180,7 +181,7 @@ html, body {
 }
 
 .mobile-nav-list li + li {
-	margin-top: 20px;
+	margin-top: 60px;
 }
 
 /* index.html */
